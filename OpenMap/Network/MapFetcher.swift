@@ -50,7 +50,7 @@ private extension MapFetcher {
       static let scheme = "https"
       static let host = "api.opencagedata.com"
       static let path = "/geocode/v1/json"
-      static let key = "ef70738393d849658559b301dcbba8ef"
+      static let key = "5e84b84495bb4c37ac07dadc626a8087"
     }
     
     func makeMapSearchComponents(withTerm term: String) -> URLComponents {
